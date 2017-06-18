@@ -1,4 +1,4 @@
-Bu projede, Java örnek bir opencv uygulaması geliştirilmiştir.
+Bu projede, Java ile örnek bir opencv uygulaması geliştirilmiştir.
  
 Bu projeyi, Java OpenCV projelerinizde  bir şablon olarak kullanabilirsiniz.
 
